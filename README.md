@@ -9,7 +9,7 @@ Back-End: ASP
 
 # HoList Project Results :exclamation:
 
-HoList Project = ongoing :laughing: <br />
+HoList Project = Complete :laughing: <br />
 
 ## Development Story :question:
 
